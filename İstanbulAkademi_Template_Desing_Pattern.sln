@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İstanbulAkademi_Template_Desing_Pattern", "İstanbulAkademi_Template_Desing_Pattern\İstanbulAkademi_Template_Desing_Pattern.csproj", "{CACAC466-BF88-4D93-9535-D47117AA1BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACAC466-BF88-4D93-9535-D47117AA1BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACAC466-BF88-4D93-9535-D47117AA1BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACAC466-BF88-4D93-9535-D47117AA1BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACAC466-BF88-4D93-9535-D47117AA1BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E234B3D0-50B0-4652-B8CF-45A260E22F7F}
+	EndGlobalSection
+EndGlobal
